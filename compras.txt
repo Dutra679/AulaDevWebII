@@ -1,4 +1,5 @@
 1 arroz	
-2 feijão
+2 feijÄƒo
 3 carne
 4 cerveja
+sushi
