@@ -1,5 +1,6 @@
+﻿
 ﻿1 arroz	
-2 feijăo branco
+2 feijăo branco e preto 
 3 carne
 4 cerveja
 sushi
